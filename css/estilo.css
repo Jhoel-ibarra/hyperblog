@@ -31,3 +31,8 @@ body{
 
 
 }
+#footer{
+    background: rgb(93, 89, 85);
+    color: #ddd;
+    text-align: center;
+}
